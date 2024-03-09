@@ -52,8 +52,7 @@ modul: {
     Utils: require('@whiskeysockets/baileys/lib/Utils'),
     yargs: require('yargs'),
     ytdlcr: require('youtubedl-core'),
-    yts: require('yt-search'),
-    yt: require('youtube-yts'),
+    //removed yooutuubbe
     ytdl: require('ytdl-core'),
     webp: require('node-webpmux')
 
